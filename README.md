@@ -1,6 +1,6 @@
-# Olá, eu sou Rodrigo Scalioni 👋
+# Olá, eu sou Rodrigo 👋
 
-### Technology Leadership • Data & Analytics • AI • Data Visualization
+### Technology Leadership | Data & Analytics | AI | Data Visualization
 
 Sou profissional de tecnologia com experiência em liderança de times e interesse especial na interseção entre **dados, analytics, inteligência artificial e gestão de tecnologia**.
 
