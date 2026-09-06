@@ -6,6 +6,8 @@ Sou profissional de tecnologia com experiência em liderança de times e interes
 
 Gosto de transformar problemas complexos em soluções claras, mensuráveis e visualmente compreensíveis — conectando engenharia, análise de dados e tomada de decisão.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Scalioni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoscalioni/)
+
 ---
 
 ## 🚀 Áreas de interesse
