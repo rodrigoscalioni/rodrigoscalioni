@@ -40,14 +40,6 @@ Gosto de transformar problemas complexos em soluções claras, mensuráveis e vi
 
 ---
 
-## 🌱 Em evolução contínua
-
-Atualmente sigo aprofundando meus conhecimentos em **engenharia de dados, analytics, inteligência artificial, cloud e visualização de dados**, buscando sempre aproximar tecnologia de problemas reais de negócio.
-
-Este GitHub é também um espaço para documentar essa jornada, compartilhar projetos e transformar estudos em entregas práticas.
-
----
-
 <p align="center">
   <i>Dados ajudam a explicar o que aconteceu. Boas visualizações ajudam a entender. Tecnologia bem aplicada ajuda a decidir o que fazer depois.</i>
 </p>
