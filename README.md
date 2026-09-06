@@ -34,15 +34,19 @@ Gosto de transformar problemas complexos em soluções claras, mensuráveis e vi
 
 ## 📌 Projetos em destaque
 
-### 🧱 [Tech Challenge — Fase 3](https://github.com/rodrigoscalioni/tech-challenge-fase-3)
-Projeto de engenharia e analytics com arquitetura em AWS, processamento de dados e construção de uma camada analítica para exploração e visualização das informações.
+<p align="center">
+  <a href="https://github.com/rodrigoscalioni/tech-challenge-fase-3">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoscalioni&repo=tech-challenge-fase-3&theme=transparent&hide_border=false&show_owner=false" alt="Tech Challenge Fase 3" />
+  </a>
+  <a href="https://github.com/rodrigoscalioni/tech-challenge-fase-2">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigoscalioni&repo=tech-challenge-fase-2&theme=transparent&hide_border=false&show_owner=false" alt="Tech Challenge Fase 2" />
+  </a>
+</p>
 
-**Principais temas:** AWS • Glue • PySpark • Athena • SQL • Data Engineering • Analytics • Dataviz
-
-### 📊 [Tech Challenge — Fase 2](https://github.com/rodrigoscalioni/tech-challenge-fase-2)
-Projeto acadêmico organizado como portfólio, reunindo análise de dados, exploração, modelagem e documentação do processo analítico.
-
-**Principais temas:** Python • Analytics • Data Science • Machine Learning • Data Visualization
+<p align="center">
+  <b>Fase 3:</b> AWS • Glue • PySpark • Athena • SQL • Data Engineering • Analytics • Dataviz<br>
+  <b>Fase 2:</b> Python • Analytics • Data Science • Machine Learning • Data Visualization
+</p>
 
 ---
 
