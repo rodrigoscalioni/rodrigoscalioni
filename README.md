@@ -29,9 +29,3 @@ Gosto de transformar problemas complexos em soluções claras, mensuráveis e vi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
----
-
-<p align="center">
-  <i>Dados ajudam a explicar o que aconteceu. Boas visualizações ajudam a entender. Tecnologia bem aplicada ajuda a decidir o que fazer depois.</i>
-</p>
