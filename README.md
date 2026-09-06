@@ -32,14 +32,6 @@ Gosto de transformar problemas complexos em soluções claras, mensuráveis e vi
 
 ---
 
-## 📌 Projetos em destaque
-
-| 🧱 [Tech Challenge — Fase 3](https://github.com/rodrigoscalioni/tech-challenge-fase-3) | 📊 [Tech Challenge — Fase 2](https://github.com/rodrigoscalioni/tech-challenge-fase-2) |
-| --- | --- |
-| **Data Engineering & Analytics na AWS**<br><br>Pipeline com arquitetura em AWS, processamento de dados e construção de camada analítica para exploração e visualização das informações.<br><br>`AWS` `Glue` `PySpark` `Athena` `SQL` `Dataviz` | **Data Science & Analytics**<br><br>Projeto acadêmico com exploração de dados, modelagem, machine learning e visualização, organizado como projeto de portfólio.<br><br>`Python` `Analytics` `Data Science` `Machine Learning` `Dataviz` |
-
----
-
 <p align="center">
   <i>Dados ajudam a explicar o que aconteceu. Boas visualizações ajudam a entender. Tecnologia bem aplicada ajuda a decidir o que fazer depois.</i>
 </p>
